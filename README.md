@@ -36,7 +36,7 @@ Cервис, в котором реализована доска объявле�
 * для кеширования используется Redis.
 
 GitHub: https://github.com/LovingFox/PWS-15_e7_mongo_redis <br/>
-Демо: https://sf.rtru.tk/{advs,adv,tags,comment,stat} (см. README в GitHub)
+Демо: https://sf.rtru.tk/advs (см. README в GitHub)
 <hr>
 
 
