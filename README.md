@@ -88,7 +88,7 @@ GitHub: https://github.com/LovingFox/PWS-15_d9_api <br/>
 Демо: https://whispering-reef-52117.herokuapp.com/ (см. README в GitHub)
 <hr>
 
-### Модуль D7. Пользовательские профили и oauth-авторизация
+### Модуль D7. Пользовательские профили и oauth-авторизация.
 ```Django, Heroku, django-allauth, oauth```
 
 Сервис библиотеки. Без регистрации можно просматривать базу книг. Что бы что-то менять, нужно авторизоваться (локально, либо через GitHub). Удаление записей позволено только "Персоналу" (is_staff); например, пользователю admin (пароль pass).
@@ -97,12 +97,29 @@ GitHub: https://github.com/LovingFox/PWS-15_d7_users <br/>
 Демо: https://thawing-island-83857.herokuapp.com/
 <hr>
 
-### 
-``` , ```
+### Модуль D1. Работа с API из Python. Модуль requests.
+```requests, trello.com```
 
+Интерфейс коммандной строки для работы с сервисом trello.com через его API. Можно создавать/удалять задачи и колонки.
 
-
-GitHub:  <br/>
-Демо: 
+GitHub: https://github.com/LovingFox/PWS-15_d1_trello <br/>
+Демо: только CLI
 <hr>
 
+### Модуль C4. Знакомство с фреймворком Vue.js.
+```JavaScript, Vue```
+
+Приложение ToDo. Используется либо localStorage в браузере, либо бэкэнд на localhost. Код бэкэнда на Python.
+
+GitHub: https://github.com/LovingFox/PWS-15_c4 <br/>
+Демо: https://lovingfox.github.io/PWS-15_c4/dist/
+<hr>
+
+### Модуль A6. Продолжаем изучать Javascript.
+```JavaScript```
+
+Игра "Собери 10 зеленых квадратов".
+
+GitHub: https://github.com/LovingFox/PWS-15_m6_task2 <br/>
+Демо: https://lovingfox.github.io/PWS-15_m6_task2/index.html
+<hr>
