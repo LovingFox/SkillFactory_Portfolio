@@ -72,10 +72,10 @@ GitHub: https://github.com/LovingFox/PWS-15_e1_travis-ci <br/>
 
 Поиск по базе данных автомобилей с фильтрами.
 
-GitHub: https://github.com/LovingFox/PWS-15_d10_Q <br/>
+GitHub: https://github.com/LovingFox/PWS-15_d10_Q (с debug панелью)<br/>
 Демо: https://calm-island-00972.herokuapp.com/
 
-GitHub: https://github.com/LovingFox/PWS-15_d10_Q/tree/e5 <br/>
+GitHub: https://github.com/LovingFox/PWS-15_d10_Q/tree/e5 (без debug панели)<br/>
 Демо: https://sf.rtru.tk/
 <hr>
 
